@@ -57,7 +57,7 @@ const Main = () => {
               </div>
 
               
-              <p>Gemini may display inaccurate info, including about people, so double-check its response. Your privacy and Gemini Apps</p>
+              <p className="para">Gemini may display inaccurate info, including about people, so double-check its response. Your privacy and Gemini Apps</p>
 
             </div>
 
